@@ -4,3 +4,4 @@
 * Урок 2: [API на Node.JS: Роутинг](http://dikiigrigorii.ru/articles/get/2016/12/30/api-na-nodejs-routing-chast-2/)
 * Урок 3: [API на Node.JS: Sequelize](http://dikiigrigorii.ru/articles/get/2017/01/01/api-na-nodejs-sequelize-chast-3/)
 * Урок 4: [API на Node.JS: Модели](http://dikiigrigorii.ru/articles/get/2017/01/02/api-na-nodejs-modeli-chast-4/)
+* Урок 5: [API на Node.JS: Роутинг](http://dikiigrigorii.ru/articles/get/2017/01/05/api-na-nodejs-routing-chast-5/)
