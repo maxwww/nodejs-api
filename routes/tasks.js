@@ -44,7 +44,7 @@ module.exports = app => {
     })
     .delete((req, res) => {
       // "/tasks/1": Delete a task
-      Task.destroy({where: req.params})
+      Tasks.destroy({where: req.params})
         .then(result => res.sendStatus(204))
         .catch(error => {
           res.status(412).json({msg: error.message});
